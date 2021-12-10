@@ -1,0 +1,23 @@
+{
+  "name": "demo-nov21",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minimomo14/node-demo-nov21.git"
+  },
+  "author": "Momo Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minimomo14/node-demo-nov21/issues"
+  },
+  "homepage": "https://github.com/minimomo14/node-demo-nov21#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "cowsay": "^1.5.0"
+  }
+}
